@@ -24,19 +24,19 @@
 ![image](https://user-images.githubusercontent.com/104752202/201524782-4e922c1f-5f03-4f0d-ad54-a6d3b58b7e4b.png)
 
 처음에는 클래스명이 navbar인 nav를 만들고   
-그 안에 로고, 메뉴, 아이콘이 들어갈 자리를 넣어줍니다.
+그 안에 로고, 메뉴, 아이콘이 들어갈 자리를 만들어줍니다.
 
 <br><br><br>
   
 ![image](https://user-images.githubusercontent.com/104752202/201524549-bffec08a-83a3-4c8c-aac9-91443e507faa.png)
 
-nav를 만든 후 로고에는 이미지와 글자를 넣어주고
+그 후 로고에는 이미지와 글자를 넣어주고
 
 <br><br><br>
 
 ![image](https://user-images.githubusercontent.com/104752202/201524578-07677a90-4d08-4b50-8f66-e5bf0a1096d3.png)
   
-메뉴에 link 형태에 목록들을 적어줍니다.
+메뉴에는 link 형태에 목록들을 적어줍니다.
   
 <br><br><br>
 
